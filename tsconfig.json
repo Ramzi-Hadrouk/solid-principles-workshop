@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",  // <-- This is crucial
+    "esModuleInterop": true,
+    "target": "ES6"
+  }
+}
