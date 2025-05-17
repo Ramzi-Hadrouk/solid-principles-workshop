@@ -2,6 +2,14 @@
 
 This project demonstrates how to apply the SOLID principles using JavaScript with both bad and refactored examples.
 
+## Installation
+
+First, install the dependencies:
+
+```bash
+npm install
+```
+
 ## How to Run
 
 ```bash
