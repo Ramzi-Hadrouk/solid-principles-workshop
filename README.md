@@ -11,13 +11,12 @@ First, install the dependencies:
 npm install
 ```
 
-## How to Run
+## How to Run a Code File
 
 ```bash
 npx ts-node 1-srp/after.ts
 npx ts-node 2-ocp/after.ts
-# etc
-# export PS1='$(basename "$PWD")\$ '
+ 
 ```
 
 # solid-principles-workshop
